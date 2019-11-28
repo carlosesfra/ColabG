@@ -1,3 +1,3 @@
 # ColabG
-Ejercicios en Google Colab
+Ejercicios en Google Colab.
 Este ambiente será usado para Desarrollo
